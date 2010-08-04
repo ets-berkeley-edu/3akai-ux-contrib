@@ -1,0 +1,9 @@
+{
+    "ca":true,
+    "description":"Tangler Forum",
+    "id":"tangler",
+    "img":"/contrib/tangler/images/tangler.png",
+    "name":"Tangler Forum",
+    "showinsakaigoodies":true,
+    "url":"/contrib/tangler/tangler.html"
+}

@@ -1,0 +1,13 @@
+{
+    "description":"Activity Stream Widget",
+    "hasSettings":true,
+    "img": "/contrib/activitystream/images/activitystream_icon.png",
+    "id":"activitystream",
+    "i18n": {
+        "default": "/contrib/activitystream/bundles/default.json",
+        "en_US": "/contrib/activitystream/bundles/en_US.json"
+    },
+    "name":"Activity Stream",
+    "personalportal":true,
+    "url":"/contrib/activitystream/activitystream.html"
+}

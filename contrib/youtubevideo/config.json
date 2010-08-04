@@ -1,0 +1,8 @@
+{
+    "ca":true,
+    "description":"YouTube Video",
+    "id":"youtubevideo",
+    "img":"/contrib/youtubevideo/images/video.png",
+    "name":"YouTube Video",
+    "url":"/contrib/youtubevideo/youtubevideo.html"
+}

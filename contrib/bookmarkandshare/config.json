@@ -1,0 +1,14 @@
+{
+    "ca": true,
+    "description": "Bookmark and share widget",
+    "i18n": {
+        "default": "/contrib/bookmarkandshare/bundles/default.json",
+        "en_US": "/contrib/bookmarkandshare/bundles/en_US.json",
+        "nl_NL": "/contrib/bookmarkandshare/bundles/nl_NL.json"
+    },
+    "img": "/contrib/bookmarkandshare/images/addthis.png",
+    "id": "bookmarkandshare",
+    "name": "Bookmark and share",
+    "showinsakaigoodies": true,
+    "url":"/contrib/bookmarkandshare/bookmarkandshare.html"
+}

@@ -1,0 +1,14 @@
+{
+    "ca": true,
+    "description": "flickr widget",
+    "i18n": {
+        "default": "/contrib/flickr/bundles/default.json",
+        "en_US": "/contrib/flickr/bundles/en_US.json",
+        "nl_NL": "/contrib/flickr/bundles/nl_NL.json"
+    },
+    "id": "flickr",
+    "img": "/contrib/flickr/images/flickr.png",
+    "name": "flickr",
+    "showinsakaigoodies": true,
+    "url":"/contrib/flickr/flickr.html"
+}

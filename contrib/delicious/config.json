@@ -1,0 +1,13 @@
+{
+    "description":"Delicious widget",
+    "hasSettings":true,
+    "id":"delicious",
+    "i18n": {
+        "default": "/contrib/delicious/bundles/default.json",
+        "en_US": "/contrib/delicious/bundles/en_US.json",
+        "nl_NL": "/contrib/delicious/bundles/nl_NL.json"
+    },
+    "name":"Delicious",
+    "personalportal":true,
+    "url":"/contrib/delicious/delicious.html"
+}

@@ -1,0 +1,13 @@
+{
+    "description":"Twitter Widget",
+    "i18n": {
+        "default": "/contrib/twitter/bundles/default.json",
+        "en_US": "/contrib/twitter/bundles/en_US.json",
+        "nl_NL": "/contrib/twitter/bundles/nl_NL.json",
+        "zh_CN": "/contrib/twitter/bundles/zh_CN.json"
+    },
+    "id":"twitter",
+    "name":"Twitter",
+    "personalportal":true,
+    "url":"/contrib/twitter/twitter.html"
+}

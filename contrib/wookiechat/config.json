@@ -1,0 +1,8 @@
+{
+    "ca":true,
+    "description":"wookiechat",
+    "name":"Chat",
+    "id":"wookiechat",
+    "img":"/contrib/wookiechat/images/wookiechat.png",
+    "url":"/contrib/wookiechat/wookiechat.html"
+}
