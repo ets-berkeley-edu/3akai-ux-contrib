@@ -1,0 +1,15 @@
+{
+	"description":"Create a Form: Save or Cancel buttons",
+	"ca":true,
+	"hasSettings":true,
+	"i18n": {
+		"default": "/contrib/formsavecancel/bundles/default.json",
+		"en_US": "/contrib/formsavecancel/bundles/en_US.json"
+	},
+	"id":"formsavecancel",
+	"img":"/contrib/formsavecancel/images/formsavecancel.png",
+	"name":"Create a Form: Save or Cancel",
+	"showinsakaigoodies":true,
+	"siteportal":true,
+	"url":"/contrib/formsavecancel/formsavecancel.html"
+}

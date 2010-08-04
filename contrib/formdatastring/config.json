@@ -1,0 +1,15 @@
+{
+	"description":"Create a Form: String Input",
+	"ca":true,
+	"hasSettings":true,
+	"i18n": {
+		"default": "/contrib/formdatastring/bundles/default.json",
+		"en_US": "/contrib/formdatastring/bundles/en_US.json"
+	},
+	"id":"formdatastring",
+	"img":"/contrib/formdatastring/images/formdatastring.png",
+	"name":"Create a Form: String Input",
+	"showinsakaigoodies":true,
+	"siteportal":true,
+	"url":"/contrib/formdatastring/formdatastring.html"
+}
